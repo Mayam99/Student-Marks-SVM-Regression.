@@ -7,9 +7,9 @@ This repository showcases a step-by-step implementation of Support Vector Machin
 * Dataset: Student Marks Dataset from Kaggle
 * Goal: To predict student marks based on key influencing factors.
 * Techniques Used:
-**Support Vector Machine (SVM) for regression
-**Grid Search for hyper-parameter tuning
-**Cross-validation for model evaluation
+1. Support Vector Machine (SVM) for regression
+2. Grid Search for hyper-parameter tuning
+3. Cross-validation for model evaluation
 
 #Key Steps
 
